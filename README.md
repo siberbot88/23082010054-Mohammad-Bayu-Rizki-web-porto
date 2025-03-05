@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 A passionate software developer and lifelong learner with a focus on **AI, IoT, and Full-Stack Development**. Currently pursuing my degree while actively engaging in tech communities like GDGOC ITS and Samsung Innovation Campus to expand my technical expertise and collaborative skills.
 
 ---
 
-## 🌐 Web Portfolio Overview
+## Web Portfolio Overview
 My portfolio website showcases my projects, technical skills, and professional journey. Key features:  
 ✅ **Responsive Design**: Optimized for all devices.  
 ✅ **Project Showcase**: Detailed case studies with code snippets and live demos.  
@@ -43,12 +43,12 @@ My portfolio website showcases my projects, technical skills, and professional j
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 - LinkedIn: [linkedin.com/in/bayurizki](https://linkedin.com/in/bayurizki)  
 - Email: [bayu.rizki@example.com](mailto:bayu.rizki@example.com)  
 - GitHub: [github.com/bayurizki](https://github.com/bayurizki)  
 
 ---
 
-⭐ "Code is art, and every project is a masterpiece in progress."  
+"Code is art, and every project is a masterpiece in progress."  
 *Thank you for visiting! Feel free to explore my work and reach out for collaborations.*
