@@ -45,8 +45,8 @@ My portfolio website showcases my projects, technical skills, and professional j
 
 ## Let's Connect!
 - LinkedIn: [linkedin.com/in/bayurizki](https://linkedin.com/in/bayurizki)  
-- Email: [bayu.rizki@example.com](mailto:bayu.rizki@example.com)  
-- GitHub: [github.com/bayurizki](https://github.com/bayurizki)  
+- Email: [mohammadbayu054@outlook.com](mailto:mohammadbayu054@outlook.com)  
+- GitHub: [github.com/siberbot88](https://github.com/siberbot88)  
 
 ---
 
