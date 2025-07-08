@@ -19,8 +19,6 @@ My portfolio website showcases my projects, technical skills, and professional j
 ✅ **Experience Timeline**: Chronological overview of my learning path and collaborations.  
 ✅ **Contact Integration**: Direct links to LinkedIn, GitHub, and email.  
 
-**Tech Stack**: React.js · Tailwind CSS · Netlify Hosting · Framer Motion  
-
 ---
 
 ## 🛠️ Technologies & Tools
